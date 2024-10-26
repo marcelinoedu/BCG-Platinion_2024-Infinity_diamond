@@ -1,26 +1,12 @@
+from email.headerregistry import Address
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 
+from model.location import Location
 
-class Location:
-    def __init__(self, id, latitude, longitude, timestamp, local):
-        self.id = id
-        self.latitude = latitude
-        self.longitude = longitude
-        self.timestamp = timestamp
-        self.local = local
 
-class Address:
-    def __init__(self, id ):
-        self.id = id
-        self.cep
-        self.type
-        self.name
-        self.country
-        self.state
-        self.city
-        self.number
-    
+
+
 class InputRouter:
     
     def __init__(self, app: FastAPI):
