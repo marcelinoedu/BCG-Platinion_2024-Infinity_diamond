@@ -21,7 +21,6 @@ class Address:
         self.city
         self.number
     
-    
 class InputRouter:
     
     def __init__(self, app: FastAPI):
