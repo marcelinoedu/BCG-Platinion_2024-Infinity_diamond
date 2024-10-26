@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "latitude": -23.485413,
+        "longitude": -46.397516,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "22:31"
+    },
+    {
+        "id": 2,
+        "latitude": -23.600137,
+        "longitude": -46.619557,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "02:47"
+    },
+    {
+        "id": 3,
+        "latitude": -23.689299,
+        "longitude": -46.630659,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "21:26"
+    },
+    {
+        "id": 4,
+        "latitude": -23.554882,
+        "longitude": -46.423139,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "19:16"
+    },
+    {
+        "id": 5,
+        "latitude": -23.593307,
+        "longitude": -46.711621,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "07:00"
+    },
+    {
+        "id": 6,
+        "latitude": -23.720463,
+        "longitude": -46.462536,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "02:16"
+    },
+    {
+        "id": 7,
+        "latitude": -23.598927,
+        "longitude": -46.81938,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "12:35"
+    },
+    {
+        "id": 8,
+        "latitude": -23.701163,
+        "longitude": -46.719911,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "09:39"
+    },
+    {
+        "id": 9,
+        "latitude": -23.696571,
+        "longitude": -46.823056,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "16:37"
+    },
+    {
+        "id": 10,
+        "latitude": -23.548098,
+        "longitude": -46.5669,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "23:55"
+    },
+    {
+        "id": 11,
+        "latitude": -23.697881,
+        "longitude": -46.365852,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "08:18"
+    },
+    {
+        "id": 12,
+        "latitude": -23.509347,
+        "longitude": -46.574107,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "02:02"
+    },
+    {
+        "id": 13,
+        "latitude": -23.672195,
+        "longitude": -46.756802,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "14:02"
+    },
+    {
+        "id": 14,
+        "latitude": -23.656678,
+        "longitude": -46.496558,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "23:01"
+    },
+    {
+        "id": 15,
+        "latitude": -23.508419,
+        "longitude": -46.428729,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "20:09"
+    },
+    {
+        "id": 16,
+        "latitude": -23.721923,
+        "longitude": -46.722236,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "15:15"
+    },
+    {
+        "id": 17,
+        "latitude": -23.447867,
+        "longitude": -46.46823,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "14:45"
+    },
+    {
+        "id": 18,
+        "latitude": -23.480264,
+        "longitude": -46.51255,
+        "severity": "median",
+        "incident_type": "flood",
+        "time": "06:42"
+    },
+    {
+        "id": 19,
+        "latitude": -23.521156,
+        "longitude": -46.696831,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "00:10"
+    },
+    {
+        "id": 20,
+        "latitude": -23.61957,
+        "longitude": -46.659269,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "10:15"
+    },
+    {
+        "id": 21,
+        "latitude": -23.605702,
+        "longitude": -46.776755,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "17:53"
+    },
+    {
+        "id": 22,
+        "latitude": -23.587026,
+        "longitude": -46.455832,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "02:45"
+    },
+    {
+        "id": 23,
+        "latitude": -23.573308,
+        "longitude": -46.501671,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "00:41"
+    },
+    {
+        "id": 24,
+        "latitude": -23.545065,
+        "longitude": -46.775479,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "04:17"
+    },
+    {
+        "id": 25,
+        "latitude": -23.463962,
+        "longitude": -46.812529,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "03:47"
+    },
+    {
+        "id": 26,
+        "latitude": -23.494359,
+        "longitude": -46.411085,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "18:31"
+    },
+    {
+        "id": 27,
+        "latitude": -23.560115,
+        "longitude": -46.585892,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "07:07"
+    },
+    {
+        "id": 28,
+        "latitude": -23.724426,
+        "longitude": -46.693699,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "21:45"
+    },
+    {
+        "id": 29,
+        "latitude": -23.535331,
+        "longitude": -46.56685,
+        "severity": "median",
+        "incident_type": "flood",
+        "time": "21:08"
+    },
+    {
+        "id": 30,
+        "latitude": -23.549132,
+        "longitude": -46.759488,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "05:55"
+    },
+    {
+        "id": 31,
+        "latitude": -23.554799,
+        "longitude": -46.81478,
+        "severity": "median",
+        "incident_type": "flood",
+        "time": "18:21"
+    },
+    {
+        "id": 32,
+        "latitude": -23.573755,
+        "longitude": -46.592392,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "21:32"
+    },
+    {
+        "id": 33,
+        "latitude": -23.511127,
+        "longitude": -46.435041,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "01:02"
+    },
+    {
+        "id": 34,
+        "latitude": -23.49228,
+        "longitude": -46.566996,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "02:39"
+    },
+    {
+        "id": 35,
+        "latitude": -23.716669,
+        "longitude": -46.731524,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "00:20"
+    },
+    {
+        "id": 36,
+        "latitude": -23.590445,
+        "longitude": -46.448302,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "03:06"
+    },
+    {
+        "id": 37,
+        "latitude": -23.481115,
+        "longitude": -46.592627,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "19:57"
+    },
+    {
+        "id": 38,
+        "latitude": -23.449173,
+        "longitude": -46.522135,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "13:22"
+    },
+    {
+        "id": 39,
+        "latitude": -23.550391,
+        "longitude": -46.810399,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "18:32"
+    },
+    {
+        "id": 40,
+        "latitude": -23.570019,
+        "longitude": -46.741452,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "03:41"
+    },
+    {
+        "id": 41,
+        "latitude": -23.503433,
+        "longitude": -46.594145,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "01:08"
+    },
+    {
+        "id": 42,
+        "latitude": -23.52546,
+        "longitude": -46.485844,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "14:36"
+    },
+    {
+        "id": 43,
+        "latitude": -23.607464,
+        "longitude": -46.641485,
+        "severity": "median",
+        "incident_type": "flood",
+        "time": "15:33"
+    },
+    {
+        "id": 44,
+        "latitude": -23.608079,
+        "longitude": -46.616434,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "10:47"
+    },
+    {
+        "id": 45,
+        "latitude": -23.484925,
+        "longitude": -46.475344,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "11:12"
+    },
+    {
+        "id": 46,
+        "latitude": -23.632326,
+        "longitude": -46.50787,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "03:23"
+    },
+    {
+        "id": 47,
+        "latitude": -23.575958,
+        "longitude": -46.618418,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "22:14"
+    },
+    {
+        "id": 48,
+        "latitude": -23.723358,
+        "longitude": -46.37906,
+        "severity": "median",
+        "incident_type": "flood",
+        "time": "17:22"
+    },
+    {
+        "id": 49,
+        "latitude": -23.666816,
+        "longitude": -46.616196,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "07:39"
+    },
+    {
+        "id": 50,
+        "latitude": -23.452671,
+        "longitude": -46.621575,
+        "severity": "median",
+        "incident_type": "flood",
+        "time": "11:30"
+    },
+    {
+        "id": 51,
+        "latitude": -23.644416,
+        "longitude": -46.515348,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "18:41"
+    },
+    {
+        "id": 52,
+        "latitude": -23.695226,
+        "longitude": -46.808161,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "19:21"
+    },
+    {
+        "id": 53,
+        "latitude": -23.561225,
+        "longitude": -46.800324,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "03:50"
+    },
+    {
+        "id": 54,
+        "latitude": -23.470177,
+        "longitude": -46.822152,
+        "severity": "low",
+        "incident_type": "landslide",
+        "time": "20:22"
+    },
+    {
+        "id": 55,
+        "latitude": -23.541565,
+        "longitude": -46.823253,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "12:36"
+    },
+    {
+        "id": 56,
+        "latitude": -23.538696,
+        "longitude": -46.748279,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "09:10"
+    },
+    {
+        "id": 57,
+        "latitude": -23.451844,
+        "longitude": -46.391656,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "13:18"
+    },
+    {
+        "id": 58,
+        "latitude": -23.672527,
+        "longitude": -46.395278,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "21:58"
+    },
+    {
+        "id": 59,
+        "latitude": -23.470436,
+        "longitude": -46.465583,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "15:22"
+    },
+    {
+        "id": 60,
+        "latitude": -23.550124,
+        "longitude": -46.421502,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "19:40"
+    },
+    {
+        "id": 61,
+        "latitude": -23.435835,
+        "longitude": -46.782516,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "03:38"
+    },
+    {
+        "id": 62,
+        "latitude": -23.472743,
+        "longitude": -46.393834,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "23:27"
+    },
+    {
+        "id": 63,
+        "latitude": -23.517997,
+        "longitude": -46.720964,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "22:19"
+    },
+    {
+        "id": 64,
+        "latitude": -23.467361,
+        "longitude": -46.644182,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "21:34"
+    },
+    {
+        "id": 65,
+        "latitude": -23.465287,
+        "longitude": -46.628349,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "06:14"
+    },
+    {
+        "id": 66,
+        "latitude": -23.707819,
+        "longitude": -46.693848,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "15:32"
+    },
+    {
+        "id": 67,
+        "latitude": -23.649793,
+        "longitude": -46.495353,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "20:05"
+    },
+    {
+        "id": 68,
+        "latitude": -23.653047,
+        "longitude": -46.464412,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "18:20"
+    },
+    {
+        "id": 69,
+        "latitude": -23.573093,
+        "longitude": -46.621783,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "05:06"
+    },
+    {
+        "id": 70,
+        "latitude": -23.564085,
+        "longitude": -46.683189,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "06:42"
+    },
+    {
+        "id": 71,
+        "latitude": -23.655567,
+        "longitude": -46.582074,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "10:26"
+    },
+    {
+        "id": 72,
+        "latitude": -23.547576,
+        "longitude": -46.463522,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "11:34"
+    },
+    {
+        "id": 73,
+        "latitude": -23.597578,
+        "longitude": -46.459863,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "19:28"
+    },
+    {
+        "id": 74,
+        "latitude": -23.640605,
+        "longitude": -46.823534,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "09:22"
+    },
+    {
+        "id": 75,
+        "latitude": -23.462481,
+        "longitude": -46.592884,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "16:41"
+    },
+    {
+        "id": 76,
+        "latitude": -23.518085,
+        "longitude": -46.635805,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "08:23"
+    },
+    {
+        "id": 77,
+        "latitude": -23.49208,
+        "longitude": -46.625548,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "04:06"
+    },
+    {
+        "id": 78,
+        "latitude": -23.628052,
+        "longitude": -46.633777,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "16:48"
+    },
+    {
+        "id": 79,
+        "latitude": -23.626291,
+        "longitude": -46.382548,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "15:09"
+    },
+    {
+        "id": 80,
+        "latitude": -23.523224,
+        "longitude": -46.367034,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "01:50"
+    },
+    {
+        "id": 81,
+        "latitude": -23.523856,
+        "longitude": -46.809779,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "10:39"
+    },
+    {
+        "id": 82,
+        "latitude": -23.664734,
+        "longitude": -46.44724,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "04:19"
+    },
+    {
+        "id": 83,
+        "latitude": -23.57217,
+        "longitude": -46.496587,
+        "severity": "low",
+        "incident_type": "flood",
+        "time": "09:12"
+    },
+    {
+        "id": 84,
+        "latitude": -23.522369,
+        "longitude": -46.760826,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "05:04"
+    },
+    {
+        "id": 85,
+        "latitude": -23.665588,
+        "longitude": -46.676528,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "16:24"
+    },
+    {
+        "id": 86,
+        "latitude": -23.509119,
+        "longitude": -46.758867,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "14:38"
+    },
+    {
+        "id": 87,
+        "latitude": -23.519911,
+        "longitude": -46.496738,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "09:13"
+    },
+    {
+        "id": 88,
+        "latitude": -23.705867,
+        "longitude": -46.397292,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "07:49"
+    },
+    {
+        "id": 89,
+        "latitude": -23.611642,
+        "longitude": -46.401559,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "09:25"
+    },
+    {
+        "id": 90,
+        "latitude": -23.550383,
+        "longitude": -46.483492,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "03:02"
+    },
+    {
+        "id": 91,
+        "latitude": -23.492485,
+        "longitude": -46.392481,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "19:58"
+    },
+    {
+        "id": 92,
+        "latitude": -23.598464,
+        "longitude": -46.674357,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "00:37"
+    },
+    {
+        "id": 93,
+        "latitude": -23.6772,
+        "longitude": -46.65356,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "22:34"
+    },
+    {
+        "id": 94,
+        "latitude": -23.478898,
+        "longitude": -46.657784,
+        "severity": "high",
+        "incident_type": "landslide",
+        "time": "02:12"
+    },
+    {
+        "id": 95,
+        "latitude": -23.675673,
+        "longitude": -46.549159,
+        "severity": "high",
+        "incident_type": "flood",
+        "time": "21:59"
+    },
+    {
+        "id": 96,
+        "latitude": -23.440742,
+        "longitude": -46.684013,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "13:53"
+    },
+    {
+        "id": 97,
+        "latitude": -23.644685,
+        "longitude": -46.670159,
+        "severity": "high",
+        "incident_type": "tree falls",
+        "time": "19:09"
+    },
+    {
+        "id": 98,
+        "latitude": -23.691233,
+        "longitude": -46.698325,
+        "severity": "median",
+        "incident_type": "tree falls",
+        "time": "04:06"
+    },
+    {
+        "id": 99,
+        "latitude": -23.5151,
+        "longitude": -46.555691,
+        "severity": "low",
+        "incident_type": "tree falls",
+        "time": "15:02"
+    },
+    {
+        "id": 100,
+        "latitude": -23.50489,
+        "longitude": -46.441134,
+        "severity": "median",
+        "incident_type": "landslide",
+        "time": "08:00"
+    }
+]

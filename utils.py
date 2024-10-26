@@ -1,4 +1,5 @@
 import random
+import json
 import pandas as pd
 from datetime import datetime, timedelta
 
@@ -53,3 +54,61 @@ def gerar_dados_localizacao_app(dias=30, registros_por_dia=100):
             })
     
     return dados
+
+# ================================================================================ #
+
+def get_lat_lon():
+    '''
+    return a random latitude and longitude
+    '''
+    lat = random.uniform(-23.725, -23.435) 
+    lon = random.uniform(-46.825, -46.365) 
+
+    return round(lat,6) , round(lon,6)
+
+def get_severity():
+    '''
+    return a random severity type 
+    '''
+    severity = ['low', 'median', 'high']
+    return random.choice(severity)
+
+def get_incident_type():
+    '''
+    return a random type of 'disaster' 
+    '''
+    types = ['flood', 'tree falls', 'landslide']
+    return random.choice(types)
+
+def get_time():
+    '''
+    return a random time 
+    '''
+    hour = random.randint(0, 23)  
+    minute = random.randint(0, 59)  
+    return f"{hour:02d}:{minute:02d}"  
+
+
+data_list = []
+
+for i in range(100):  
+    latitude, longitude = get_lat_lon()
+    severity = get_severity()
+    incident_type = get_incident_type()
+    time = get_time()
+
+    data = {
+            "id": i + 1,
+            "latitude": latitude,
+            "longitude": longitude,
+            "severity": severity,
+            "incident_type": incident_type,
+            "time": time
+        }
+    
+    data_list.append(data)
+
+with open('data_partner_api.json', 'w') as arquivo_json:
+    json.dump(data_list, arquivo_json, indent=4)
+
+print("JSON file created successfully!")
