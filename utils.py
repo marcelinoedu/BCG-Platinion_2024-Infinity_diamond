@@ -53,3 +53,7 @@ def gerar_dados_localizacao_app(dias=30, registros_por_dia=100):
             })
     
     return dados
+
+
+
+
